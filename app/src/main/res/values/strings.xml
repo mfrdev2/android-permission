@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">permission-android</string>
+    <declare-styleable name="StrikeTextView">
+        <attr name="strikeColor" format="string"/>
+        <attr name="strike" format="boolean"/>
+    </declare-styleable>
 </resources>
